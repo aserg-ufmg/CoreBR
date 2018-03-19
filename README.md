@@ -1,2 +1,2 @@
 # CoreBR
-See now https://aserg-ufmg.github.io/CSIndex
+See now http://csindexbr.org
